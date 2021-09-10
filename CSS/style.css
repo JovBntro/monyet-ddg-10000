@@ -1,0 +1,32 @@
+.wiltod {
+  margin: 40px 0;
+}
+
+.helem {
+  text-align: center;
+  color: #04aa6d;
+  font-size: 32px;
+}
+
+.tingting {
+  text-align: center;
+  font-size: 18px;
+}
+
+.buntolol {
+  padding: 80px 0px;
+  width: 100%;
+  background-color: #282a35;
+  color: white;
+  margin: 16px 0;
+}
+
+.corona {
+  float: left;
+  width: 50%;
+  text-align: center;
+}
+
+.masker {
+  font-size: 100px;
+}
